@@ -1,0 +1,19 @@
+{
+  "name": "mymeal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-validator": "^5.3.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4",
+    "promise": "^8.0.2",
+    "random-token": "0.0.8"
+  }
+}
